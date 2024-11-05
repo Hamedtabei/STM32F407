@@ -1,0 +1,46 @@
+# STM32CubeIDE specific files
+*.launch
+*.cproject
+*.project
+.settings/
+.metadata/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.s
+*.a
+*.so
+*.sym
+
+# Build directories
+Debug/
+Release/
+BUILD/
+Debug-STM32F407/
+Release-STM32F407/
+
+# User-specific files
+*.user
+*.swp
+*.swo
+*.swn
+
+# C/C++ specific files
+*.exe
+*.out
+*.class
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.pch
+*.tmp
+
+# Other files
+Thumbs.db
+.DS_Store
